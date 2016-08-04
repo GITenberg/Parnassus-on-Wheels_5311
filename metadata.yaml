@@ -1,0 +1,33 @@
+_repo: Parnassus-on-Wheels_5311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: Parnassus on Wheels is a novel by Christopher Morley, published in 1917.
+  The Parnassus of the title refers to the mountain that was the home of the Muses
+  in Greek mythology. In the story, Roger Mifflin sells his traveling bookshop to
+  Helen McGill, who tires of looking after Andrew, her ailing brother. Christopher
+  Morley later continued the story of Roger Mifflin in his 1919 novel The Haunted
+  Bookshop .
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Booksellers and bookselling -- Fiction'
+- !lcsh 'Brooklyn (New York, N.Y.) -- Fiction'
+- GITenberg
+title: Parnassus on Wheels
+url: http://www.gutenberg.org/ebooks/5311
