@@ -1,5 +1,8 @@
 _repo: Parnassus-on-Wheels_5311
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morley, Christopher
@@ -15,6 +18,8 @@ description: Parnassus on Wheels is a novel by Christopher Morley, published in 
   Helen McGill, who tires of looking after Andrew, her ailing brother. Christopher
   Morley later continued the story of Roger Mifflin in his 1919 novel The Haunted
   Bookshop .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5311#Parnassus-on-Wheels
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
